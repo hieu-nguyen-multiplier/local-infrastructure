@@ -1,0 +1,11 @@
+platform:
+  docgen:
+    kafka:
+      bootstrap-servers: "localhost:9094"
+      group-id: company-service
+      auto-startup: true
+grpc:
+  server:
+    port: 19091
+    security:
+      enabled: false
