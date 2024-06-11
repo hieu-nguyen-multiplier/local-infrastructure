@@ -1,0 +1,1 @@
+-Dspring.profiles.active=local -Dspring.datasource.url="jdbc:postgresql://localhost:5432/coredb20240402" -Dspring.datasource.username=coredb -Dspring.datasource.password=password -Dserver.port=50001 -Dgrpc.server.port=19091 -Dgrpc.client.contract-service.address="dns:///localhost:29091" -Dgrpc.client.contract-service.negotiationType=PLAINTEXT

@@ -1,0 +1,1 @@
+-Dspring.profiles.active=stage -Dspring.datasource.password=Yao3eOvah0twhXN_ -Dserver.port=50001 -Dgrpc.server.port=9091 -Dgrpc.client.company-service.address="dns:///localhost:9090" -Dgrpc.client.company-service.negotiationType=PLAINTEXT -Dlogging.level.com.netflix.graphql.dgs=DEBUG
