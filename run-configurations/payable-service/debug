@@ -1,0 +1,1 @@
+-Dspring.profiles.active=debug -Dspring.datasource.password=5rxnWOyWffdjdBdD -Dserver.port=50001 -Dgrpc.server.port=19091
